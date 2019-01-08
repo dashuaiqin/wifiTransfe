@@ -1,1 +1,1 @@
-include ':app',':simplemvplibrary'
+include ':app',':simplemvplibrary', ':universaltitlebar'
